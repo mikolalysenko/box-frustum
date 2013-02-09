@@ -1,0 +1,32 @@
+{
+  "name": "box-frustum",
+  "version": "0.0.0",
+  "description": "Checks if an axis aligned bounding box intersects a camera frustum.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/box-frustum.git"
+  },
+  "keywords": [
+    "bounding",
+    "box",
+    "frustum",
+    "axis",
+    "aligned",
+    "clip",
+    "cull",
+    "geometry",
+    "3d",
+    "webgl"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "e95c275a48fcae660b45e1229096129bb2dbc8da"
+}
